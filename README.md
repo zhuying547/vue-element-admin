@@ -11,7 +11,7 @@
 
 ### Web 设计新趋势: 使用 SVG 代替 Web Icon Font
 
-(IO METER)[https://io-meter.com/2014/07/20/replace-icon-fonts-with-svg/]
+原文：[replace-icon-fonts-with-svg](https://io-meter.com/2014/07/20/replace-icon-fonts-with-svg/)
 
 Icon Font 的主要缺陷有以下几条：
 
